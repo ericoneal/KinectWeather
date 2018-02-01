@@ -1,0 +1,16 @@
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\GreenScreen-WPF.exe
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\GreenScreen-WPF.pdb
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\Microsoft.Kinect.dll
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\Microsoft.Kinect.xml
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF.csprojResolveAssemblyReference.cache
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\MainWindow.baml
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\MainWindow.g.cs
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\App.g.cs
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF_MarkupCompile.cache
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF.g.resources
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\Microsoft.Samples.Kinect.GreenScreen.Properties.Resources.resources
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF.csproj.GenerateResource.Cache
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF.exe
+C:\Sourcecode\Kinect\GreenScreen-WPF\obj\Debug\GreenScreen-WPF.pdb
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\WpfAnimatedGif.dll
+C:\Sourcecode\Kinect\GreenScreen-WPF\bin\Debug\WpfAnimatedGif.xml
